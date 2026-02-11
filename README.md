@@ -3,6 +3,9 @@
 ### 🚀 MLOps Engineer | AI Systems Builder | Production-Grade ML Architect  
 
 I love deeply understanding complex problems and solving them efficiently in ways that help businesses scale and grow.  
+<p align="center">
+  <img src="graphics.gif" width="700"/>
+</p>
 
 I don’t just build models — I build **scalable, production-ready AI systems** that can handle real users, real traffic, and real-world constraints.
 
