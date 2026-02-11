@@ -134,8 +134,8 @@ I focus on:
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asadullah_Yousaf-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asadullah_Yousaf-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/asadullah-yousaf-456615394)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:asaduyousaf@gmail.com)
 
 ---
 
