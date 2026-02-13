@@ -1,11 +1,11 @@
 # Hi, I'm Asadullah Yousaf 👋  
 
-### 🚀 MLOps Engineer | AI Systems Builder | Production-Grade ML Architect  
+### AI Systems Builder | Production-Grade ML Architect  
 
-I love deeply understanding complex problems and solving them efficiently in ways that help businesses scale and grow.  
-
-
-I don’t just build models — I build **scalable, production-ready AI systems** that can handle real users, real traffic, and real-world constraints.
+Turning complex business challenges into scalable AI systems.
+I am an MLOps Engineer who bridges business problems with scalable AI solutions.
+I take time to understand your challenges, evaluate where AI can (and cannot) add value, design production-ready systems, and seamlessly integrate AI into existing infrastructures to drive measurable growth.
+Let’s build and scale intelligently.
 
 ---
 
