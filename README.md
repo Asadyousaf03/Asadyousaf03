@@ -2,7 +2,7 @@
 
 ### AI Systems Builder | Production-Grade ML Architect  
 
-I am an **MLOps Engineer** who bridges business problems with scalable AI solutions.
+I am an **AI Engineer** who bridges business problems with scalable AI solutions.
 I take time to understand your challenges, evaluate where AI can (and cannot) add value, design production-ready systems, and seamlessly integrate AI into existing infrastructures to drive measurable growth.
 Let’s build and scale intelligently.
 
